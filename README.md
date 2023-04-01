@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliusjulyp
 - 👀 I’m interested in Blockchain development and smart contracts
-- 🌱 Rust/ink && Solidity developer
+- 🌱 Javascript,Rust/ink && Solidity developer
 - 💞️ I’m looking to collaborate on everything concerning Blockchain and programming
 - 📫 How to reach me, you can email me @ julypjulius@gmail.com
 
